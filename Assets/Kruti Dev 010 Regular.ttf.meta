@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0e2575fc54b8f4b6fab0cb763a95652d
+guid: bfae2e0abc4c6436998876fa23796f6c
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,10 +9,10 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Kruti Dev 040
+  - Kruti Dev 010
   fallbackFontReferences: []
   customCharacters: 
-  fontRenderingMode: 0
+  fontRenderingMode: 2
   ascentCalculationMode: 1
   useLegacyBoundsCalculation: 0
   shouldRoundAdvanceValue: 1
