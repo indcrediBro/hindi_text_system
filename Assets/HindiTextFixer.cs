@@ -15,6 +15,5 @@ public class HindiTextFixer : MonoBehaviour
     void Update()
     {
         if (hindiText && hindiTextInput) hindiText.text = UnicodeToKrutidev.UnicodeToKrutiDev(hindiTextInput.text);
-        //if (hindiText && hindiTextInput) hindiText.text = hindiTextInput.text;
     }
 }
